@@ -10,10 +10,10 @@
 └───────────────────────────────────────────────┘
 ```
 
-# goormIDE
-Welcome to goormIDE!
+# myPet
+Welcome to myPet!
 
-goormIDE is a powerful cloud IDE service to maximize productivity for developers and teams.  
+myPet is a powerful cloud IDE service to maximize productivity for developers and teams.  
 **DEVELOP WITH EXCELLENCE**  
 
 `Happy coding! The goormIDE team`
