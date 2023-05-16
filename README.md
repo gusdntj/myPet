@@ -13,8 +13,8 @@
 # myPet
 Welcome to myPet!
 
-myPet is a powerful cloud IDE service to maximize productivity for developers and teams.  
-**DEVELOP WITH EXCELLENCE**  
+myPet is an animal information sharing website created using Django! 
+
 
 `Happy coding! The goormIDE team`
 
