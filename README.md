@@ -16,7 +16,7 @@ Welcome to myPet!
 myPet is an animal information sharing website created using Django! 
 
 
-`Happy coding! The goormIDE team`
+
 
 
 ## 🔧 Tip & Guide
